@@ -53,16 +53,30 @@ npm install
 npm run dev
 
 
-🌐 Deployment
-This project is deployed on Netlify.
-👉 [https://shopclause.netlify.app/](https://shopclause.netlify.app/)  
+
+🌐 Deployment  
+This project is deployed on Netlify.  
+👉 [Live Demo](https://shopclause.netlify.app/)
+
 
 
 📸 Screenshots
-<img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/0ca6b187-43b3-4f76-b649-7862c85f36e0" />
+<img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/edd2f2ad-af35-4d21-8eed-f62564bff68e" />
+
+<img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/462cb2e1-c1ea-410f-898e-f63a33b746f6" />
+
+<img width="1920" height="1080" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/6814f1db-dc2c-47f8-87e0-aa38eec00d56" />
 
 
-✨ Author
 
-👤 [Akarsh Sharma](https://akarshcodes.netlify.app/)
+
+
+📄 License
+This project is open source under the MIT License.
+
+
+
+👨‍💻 Developed By
+   Akarsh Sharma
+🔗 https://akarshcodes.netlify.app/
 
