@@ -36,31 +36,18 @@ src/
 ---
 
 
-## ⚡ Installation & Setup
-Clone the repo and install dependencies:
-
-```bash
-# Clone repository
-git clone https://github.com/<your-username>/shopclues-clone.git
-
-# Go to project folder
-cd shopclues-clone
-
-# Install dependencies
-npm install
-
-# Run locally
-npm run dev
 
 
-
-🌐 Deployment  
+## 🌐 Deployment  
 This project is deployed on Netlify.  
 👉 [Live Demo](https://shopclause.netlify.app/)
 
 
+---
 
-📸 Screenshots
+
+
+## 📸 Screenshots
 <img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/edd2f2ad-af35-4d21-8eed-f62564bff68e" />
 
 <img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/462cb2e1-c1ea-410f-898e-f63a33b746f6" />
@@ -69,14 +56,19 @@ This project is deployed on Netlify.
 
 
 
+---
 
 
-📄 License
+
+## 📄 License
 This project is open source under the MIT License.
 
 
+---
 
-👨‍💻 Developed By
+
+
+## 👨‍💻 Developed By
    Akarsh Sharma
 🔗 https://akarshcodes.netlify.app/
 
