@@ -38,8 +38,7 @@ src/
 
 
 ## 🌐 Deployment  
-      This project is deployed on Netlify.  
-      [ShopClause](https://shopclause.netlify.app/)
+🔗 [Live Demo – Shopclues Clone](https://shopclause.netlify.app/) 
 
 
 ---
@@ -66,8 +65,7 @@ This project is open source under the MIT License.
 ---
 
 
-
-## 👨‍💻 Developed By
-      [Akarsh Sharma](https://akarshcodes.netlify.app)
+## 👨‍💻 Developed By  
+[**Akarsh Sharma**](https://akarshcodes.netlify.app)
 
 
