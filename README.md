@@ -1,7 +1,6 @@
 # 🛒 Shopclues Clone
 
-A modern **Shopclues E-commerce Clone** built with **React, Vite, TailwindCSS, Redux, Firebase (Auth), and Netlify** for deployment.  
-This project is a learning-focused clone of Shopclues, showcasing **frontend development, state management, and deployment workflow**.
+A modern Shopclues E-Commerce Clone built with React, Vite, TailwindCSS, Redux, and Firebase Authentication, and deployed on Netlify. This project is a learning-focused implementation that highlights frontend development best practices, global state management using Redux, secure authentication flows with Firebase, and smooth deployment workflows. The application demonstrates how to build a responsive, scalable, and user-friendly e-commerce platform using modern web technologies, making it a strong showcase for practical development skills.
 
 ---
 
@@ -39,8 +38,8 @@ src/
 
 
 ## 🌐 Deployment  
-This project is deployed on Netlify.  
-👉 [Live Demo](https://shopclause.netlify.app/)
+      This project is deployed on Netlify.  
+      [ShopClause](https://shopclause.netlify.app/)
 
 
 ---
@@ -69,6 +68,6 @@ This project is open source under the MIT License.
 
 
 ## 👨‍💻 Developed By
-   Akarsh Sharma
-🔗 https://akarshcodes.netlify.app/
+      [Akarsh Sharma](https://akarshcodes.netlify.app)
+
 
